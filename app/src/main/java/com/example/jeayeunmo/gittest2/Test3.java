@@ -1,1 +1,4 @@
-Test3.java
+package com.example.jeayeunmo.gittest2;
+
+public class Test3 {
+}
