@@ -15,4 +15,6 @@ public class Test2 {
 
     String xx1;
     String xx2;
+    String xx3;
+
 }
