@@ -9,5 +9,7 @@ public class Test2 {
       String b;
 
       //test3
+        String d;
+        String c;
     }
 }
