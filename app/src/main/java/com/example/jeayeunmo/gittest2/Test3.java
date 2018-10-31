@@ -1,4 +1,6 @@
 package com.example.jeayeunmo.gittest2;
 
 public class Test3 {
+  public void a(){
+  }
 }
