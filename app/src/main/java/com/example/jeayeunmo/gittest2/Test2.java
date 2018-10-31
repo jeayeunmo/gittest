@@ -12,4 +12,6 @@ public class Test2 {
         String d;
         String c;
     }
+
+    String xx;
 }
