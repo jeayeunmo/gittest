@@ -13,5 +13,5 @@ public class Test2 {
         String c;
     }
 
-    String xx;
+    String xx1;
 }
