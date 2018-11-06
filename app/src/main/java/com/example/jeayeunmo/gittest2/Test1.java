@@ -4,5 +4,6 @@ public class Test1 {
     //test
   //
   public void test(aaa){
-    
+
+  public void test2(){}
 }
